@@ -1,4 +1,4 @@
-# SQL and Power BI Bike Store Data Analysis Project 
+# SQL and Power BI Bike Store Pricing Recommendation Data Analysis Project 
 
 ## Objective
 The Project is to develop a dashboard for the "Toman Bike Store" to display KPIs for informed decision-making and to give recommendation if the store can raise their prices for the following year.
@@ -61,5 +61,6 @@ Using the following data to check if the store can increase its price.
 - **Segmented Pricing Strategy**: Consider different pricing for casual vs registered users, as they may have different price sensitivities.
 - **Monitor and Adjust**: Implement the new prices but to be ready to adjust based on immediate customer feedback and sales data. Monitoring closely will allow to fine-tune pricing strategy without committing fully to a price that might turn out to be too high.
 
+[Link to download Live Dashboard Power BI File](https://github.com/AkarshGM/SQL-and-Power-BI-Bike-shop-Project/blob/main/Bike%20data%20Power%20BI%20Project.pbix)
 
 
