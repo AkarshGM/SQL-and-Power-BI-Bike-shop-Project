@@ -1,7 +1,7 @@
 # SQL and Power BI Bike Store Pricing Recommendation Data Analysis Project 
 
 ## Objective
-The Project is to develop a dashboard for the "Toman Bike Store" to display KPIs for informed decision-making and to give recommendation if the store can raise their prices for the following year.
+The Project is to develop a dashboard for the "Toman Bike Store" to display KPIs for informed decision-making and to give <ins>recommendation if the store can raise their prices</ins> for the following year.
 
 ## Requirements
 - Hourly Revenue Analysis
