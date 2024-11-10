@@ -34,3 +34,32 @@ FROM cte a
 LEFT JOIN cost_table b
 ON a.yr = b.yr
 ```
+Created two new columns Revenue and Profit for Analysis.
+
+## Dashboard
+Connected SQL Server to Power BI and developed an Interactive Dashboard to analyse Hourly Revenue Analysis, Profit-Revenue Trends, Seasonal Revenue and Rider Demographics. 
+
+![Dashboard](https://github.com/AkarshGM/SQL-and-Power-BI-Bike-shop-Project/blob/main/Power%20BI%20Dashboard.png)
+
+## Interpretation
+Using the following data to check if the store can increase its price.
+
+![DATA](https://github.com/AkarshGM/SQL-and-Power-BI-Bike-shop-Project/blob/main/DATA.png)
+
+- It seems that there was 25% increase in price (from $3.99 to $4.99) from the year 2021 to 2022 and there was a giant jump in revenue.
+- There is aslo 64% increase in demand. [(2049576-1243103)/1243103*100)]
+- Price Elasticity is 2.56 (64%/25%) and hence we can increase the price conservatively.
+
+## Recommendation
+- **Conservative Increase**: Considering the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range of 10-15% could test the market's response without risking a significant loss of customers.
+- **Price Setting**:
+ 	- If the price in 2022 was $4.99, a 10% increase would make the new price about $5.49
+    - A 15% increase would set the price at approximately $5.74
+
+## Recommended Strategy
+- **Market Analysis**: Conduct further market research to understand customer satisfaction, potential competitive changes and the overall economic environment. This can guide whether leaning towards the lower or higher end of the suggested increase.
+- **Segmented Pricing Strategy**: Consider different pricing for casual vs registered users, as they may have different price sensitivities.
+- **Monitor and Adjust**: Implement the new prices but to be ready to adjust based on immediate customer feedback and sales data. Monitoring closely will allow to fine-tune pricing strategy without committing fully to a price that might turn out to be too high.
+
+
+
